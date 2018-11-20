@@ -1,0 +1,7 @@
+C:\Users\Андрей\source\repos\Kast\Kast\bin\Debug\Kast.exe.config
+C:\Users\Андрей\source\repos\Kast\Kast\bin\Debug\Kast.exe
+C:\Users\Андрей\source\repos\Kast\Kast\bin\Debug\Kast.pdb
+C:\Users\Андрей\source\repos\Kast\Kast\obj\Debug\Kast.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\source\repos\Kast\Kast\obj\Debug\Kast.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\Kast\Kast\obj\Debug\Kast.exe
+C:\Users\Андрей\source\repos\Kast\Kast\obj\Debug\Kast.pdb
